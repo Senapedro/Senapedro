@@ -18,5 +18,3 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-![Snake animation](https://github.com/senapedro/senapedro/blob/output/github-contribution-grid-snake.svg)
-
