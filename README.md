@@ -4,10 +4,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phsenapereira)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senapedro&show_icons=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_radius=30&border_color=ff0000)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senapedro&layout=compact&bg_color=000000&title_color=ff0000&border_radius=30&border_color=ff0000&card_width=448px)](https://github.com/senapedro/github-readme-stats)
-
 ## Tecnologias que uso no meu dia 💻
 
 <div style="display: inline_block"><br/>
