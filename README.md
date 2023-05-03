@@ -3,7 +3,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-sena-211b95205/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phsenapereira)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=senapedro&show_icons=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_radius=30&border_color=ff0000&theme=dark#gh-dark-mode-only)](https://github.com/senapedro/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senapedro&show_icons=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_radius=30&border_color=ff0000&theme=dark)](https://github.com/senapedro/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senapedro&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_radius=30&border_color=ff0000&card_width=448px&layout=compact)](https://github.com/senapedro/github-readme-stats)
 
